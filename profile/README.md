@@ -10,3 +10,6 @@ our projects listing : [For Hives Projects](https://github.com/For-Hives/forhive
 🐝 At ForHives, we believe in the power of collaboration and community. We're all about working together to achieve our goals and help each other succeed. So why not join us and be a part of something truly amazing?
 
 👉 Check out our home page and see what we're all about. We can't wait to welcome you to the ForHives family and start changing the world together!
+
+### Wiki ForHives
+[The wiki is there](https://github.com/For-Hives/Obsidian-Wiki-ForHives)
